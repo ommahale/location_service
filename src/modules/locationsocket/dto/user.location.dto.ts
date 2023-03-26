@@ -1,5 +1,5 @@
 export class UserLocationDto{
     uid:string;
-    latitude:number;
-    longitude:number;
+    latitude:string;
+    longitude:string;
 }
